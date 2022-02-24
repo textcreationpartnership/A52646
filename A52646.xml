@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the proceedings at the sessions-house in the Old-Bailey, April 21, 1680. The number of persons condemned for high-treason and other crimes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52646</idno>
+            <idno type="STC">Wing N213</idno>
+            <idno type="STC">ESTC R214295</idno>
+            <idno type="EEBO-CITATION">99826492</idno>
+            <idno type="PROQUEST">99826492</idno>
+            <idno type="VID">30895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30895)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1765:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the proceedings at the sessions-house in the Old-Bailey, April 21, 1680. The number of persons condemned for high-treason and other crimes.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:30895:1"/>
+            <head>A NARRATIVE Of the Proceedings AT THE Seſſions-houſe In the <hi>Old-Bailey, April</hi> 21, 1680. The Number of perſons Condemned for High-Treaſon and other Crimes.</head>
+            <head>IT would be both too tedious, and to little purpoſe, to publiſh every particular Tryal and the Circumſtances of all ill Acts which were here examined, and the Actors thereof brought to Juſtice; we ſhall onely ſpeak of the moſt conſide<g ref="char:EOLhyphen"/>rable, amongſt which we muſt account</head>
+            <p>The buſineſs of Mr. <hi>Harriſon,</hi> Indicted for the Murder of one Mr. <hi>Jacob:</hi> they lived at <hi>Weſtminſter,</hi> and were both Sword-men: the party killed having a ſuſpition of his Wiſe, had ſeveral times had quarrels with him about it, and fore-warned him from keeping her company; but notwithſtanding, under<g ref="char:EOLhyphen"/>ſtood one day that they were together, and was ſo enraged, that the Priſoner thought fit to make his eſcape, as faſt as he could backwards, to avoid his fury, who came upon him with his Sword, and made ſeveral paſſes at him, ſo that the Priſoner was obliged to draw his own Sword, which he uſed ſo unhappily, that Mr. <hi>Jacob</hi> was kill'd. Upon a long diſcuſſion of the whole Circumſtan<g ref="char:EOLhyphen"/>ces, Mrs. <hi>Jacob</hi> being an Evidence againſt him, he was found guilty of Min<g ref="char:EOLhyphen"/>ſlaughter.</p>
+            <p>A bruitiſh fellow, ſaid to belong to <hi>Bridewell,</hi> was found guilty by the Jury for <hi>Middleſex,</hi> for a barbarous Rape, committed on a Child not above ſeven years old, and very ſmall of growth for that age; he inticed her into the Houſe where he and his Mother dwelt, by giving her an Apple, and there began to practiſe his filthineſs, which he purſued ſo far, that the Child ſome few days after, complaining to its Mother, who when ſhe came to ſearch, ſound her moſt lamentably abuſed: ſeveral Women, and two Chyrurgeons gave Evidence againſt him, making out the Crime as far as the Law requires, and the Child from the very firſt, and ever conſtantly charged him with it, and that no body elſe had medled with her. Twas proved that he had a <hi>Gonorrhea,</hi> of the ſoul diſeaſe, when he did this villany, and thereby endangered the Childs life, as well with that Contagion, as by the violence, ſo that he was juſtly found guilty.</p>
+            <pb n="2" facs="tcp:30895:2"/>
+            <p>Another was proſecuted for a Rape, by a woman of about four or five and twenty years of age, but it was done, as ſhe ſaid, two years ago, and though ſhe had ſeen the man ſeveral times, yet ſhe never complained till now, ſo that it was ſuppoſed, that becauſe he did <hi>not come at her again,</hi> or to get a little Mo<g ref="char:EOLhyphen"/>ney, was the chief cauſe and end of the proſecution.</p>
+            <p>There were a great number of Clippers and Coyners Arraigned at this Seſſi<g ref="char:EOLhyphen"/>ons, whereof ſeveral were Convicted, others Acquitted: of the former ſort were Mrs <hi>Richardſon</hi> and her Son, a brisk bold young fellow, and pretending himſelf a Dancing-maſter; another woman was Indicted with them, but Ac<g ref="char:EOLhyphen"/>quitted. Mrs. <hi>Richardſon</hi> had brought a Trunk lockt to this other womans houſe, and ſet it obſcurely under the Cellar-ſtairs; in this Trunk there were found the Tools for Clipping; likewiſe at home when ſhe was taken, there were ſome Clippings diſcovered, and ſhe cryed out of a window, and ſaid, <hi>ſhe was undone;</hi> and the Son endeavoured to fly for it, ſo that they were found guilty.</p>
+            <p>One <hi>
+                  <g ref="char:V">Ʋ</g>nderwood,</hi> and a Wench he kept company with (a very courteous La<g ref="char:EOLhyphen"/>dy, for at the Bar ſhe boaſted, ſhe never had been unkind to any man in her life) were likewiſe Convicted of High-Treaſon for the like offence, much clipt Money and Clippings, and the neceſſary Implements being found upon them. Both theſe and two former lived near <hi>Pickadilly,</hi> and 'tis ſuppoſed, were all of a gang, or had converſation together; they were firſt diſcovered by means of a Card-match Girl, to whom this <hi>
+                  <g ref="char:V">Ʋ</g>nderwoods</hi> Miſtreſs boaſted, that ſhe could get a Guinney a day by this Myſtery; and told her ſomething of the way, and who held a Correſpondence with them; but this Girl is ſince dead on a ſudden, not without ſuſpition of Poyſon, to prevent her Teſtimo<g ref="char:EOLhyphen"/>ny: however, there was enough without her to do their buſineſs, being both found guilty.</p>
+            <p>Another perſon who drove the ſame Trade alone by himſelf, was alſo found guilty: the matter was proved ſo plainly on him, that there could be no doubt or difficulty made of it.</p>
+            <p>A perſon living, in or near <hi>Grubſtreet,</hi> and his Wife, were likewiſe charged with the ſame Offence: The Evidence for the King made out ſeveral preſump<g ref="char:EOLhyphen"/>tions againſt them, but there was a multitude of their Neighbours and others that came in to teſtifie as to their Credit, <hi>&amp;c.</hi> And the Priſoners alledged, the proſecution was upon an old grudge, and endeavoured to recriminate upon one of the chief Evidence; it did appear that four years ago, their Houſe had been ſearched on ſuſpition of this Crime of Clipping, and then nothing found that could rendes them obnoxious to the Law, ſo that after a full and fair Try<g ref="char:EOLhyphen"/>al they were acquitted.</p>
+            <p>Several perſons, as is uſual every Seſſions, were Convicted for ſtealing of ſilver Tankards, and divers for Shop-liſting, the particulars too redious to relate.</p>
+            <p>One <hi>Daniel Mackarty,</hi> an <hi>Iriſh-man,</hi> was Tryed and Convicted of Treaſon, as being a Popiſh Prieſt: the manner of his Apprehenſion was thus. A woman in <hi>Charles-ſtreet</hi> being very ſick, this Father officiated with her, ſaid Maſs, and Adminiſtred the Sacrament to her, of which the Nurſe gave notice to ſome honeſt Neighbours, who took out a Warrant and ſeized him in the ſaid ſick womans Chamber, who much interceded and begged that they would not take him away, for if they did, ſhe ſhould be in danger of loſing her Soul;
+<pb n="3" facs="tcp:30895:2"/>but they adviſed her to ſend for a Proteſtant Divine, and take inſtructions from him, and not to truſt ſuch blind Popiſh guides, with their Idolatrous Maſſes, and fooliſh Ceremonies of Extream Unction and groundleſs Abſolutions, where there is neither true Faith or Repentance. The Nurſe teſtified that ſhe had heard the Priſoner ſay Maſs, and exerciſe other parts of the Prieſtly Function. Dr. <hi>Oates</hi> likewiſe was a Witneſs againſt him, that he confeſſed to him that he was a Prieſt when he was brought to his Chamber. In his Pocket when he was taken, there was found a Petition to the <hi>Venetian</hi> Ambaſſa<g ref="char:EOLhyphen"/>dor, expreſſed by the name of <hi>Daniel Mackarty</hi> Prieſt, ſetting forth his being in want, and deſiring relief; as likewiſe a Letter in <hi>French</hi> directed to him, and ſignifying likewiſe, that he was a Prieſt, which Papers were read in Court. He had little to ſay for himſelf, but behaved himſelf impudently, calling the Witneſſes ſcurrilous names, <hi>&amp;c.</hi> Nothing could be made more plain than his Prieſthood, which in truth he ſcarce denyed, and ſo was found guilty, which he ſeemed not at all to regard, being a perſon (as moſt of them are) of a won<g ref="char:EOLhyphen"/>derful confidence.</p>
+            <p>The Petition before-mentioned was in French, and therein it was ſpecifi<g ref="char:EOLhyphen"/>ed what Order he was of; likewiſe there was another Paper in the ſame Lan<g ref="char:EOLhyphen"/>guage, purporting to be directions how (if he were taken) he ſhould behave himſelf, what excuſes and pretences he ſhould make, what he ſhould ſay if con<g ref="char:EOLhyphen"/>fronted by Doctor <hi>Oates,</hi> or any other of the Kings Evidence; whereby we may ſee they have Leſſons ſet them in every caſe. He thought to have baffled the woman that gave Evidence againſt him, by asking her what cloaths he had on when ſhe heard him officiate; who anſwered, the ſame he had now, whence he would infer that it could not be, becauſe in ſaying Maſs, they uſe ſuch and ſuch Veſtments; but this was quickly contradicted, for though he had not all his Formalities, which they cannot conveniently always, nor ſafely now eſpecially, carry about with them, yet to ſupply that defect, there was found about him, and now ſhewed in Court, a thing called in their holy <hi>Gib<g ref="char:EOLhyphen"/>beriſh, A Stole,</hi> being a piece of Sattin or Taffata, of near two yards long, and three or four Inches broad, of a kind of deep blew, or almoſt purple colour, which they uſe to fling over their ſhoulders, and that alone ſerves inſtead of all the reſt of their gear. The woman mentioning her hearing him ſay Maſs, was askt how many were preſent, ſhe anſwered, ſhe could not certainly tell, but was ſure there was above threeſcore; and being demanded if ſhe knew any of them, replyed, yes, there were enough of them now about the Court, or in the yard, or words to that effect.</p>
+            <p>There was a young Gentleman of good note, took a Tryal on the <hi>Friday</hi> touching a Rape charg'd to be committed on the Daughter of one Mrs. a Girl about ten years of age. He was ordered by a Relation to demand Mo<g ref="char:EOLhyphen"/>ney of this Childs Parents, who kept an Ale houſe, and they contriv'd, as may be thought, this Stratagem not onely to ſatisfie that Debt, but ſcrew more Money out of him. The Girl told the ſtory that he meddled with her in the Chamber at her Mothers; and her Siſter a wench about ſixteen years of age confirm'd it, by ſaying ſhe came up and ſaw it, and that he gave her two ſhil<g ref="char:EOLhyphen"/>lings to hold her tongue; and Midwives ſwore the Child had had ſome A<g ref="char:EOLhyphen"/>buſe. But the Gentleman proved by a Servant-maid, that the eldeſt Daugh<g ref="char:EOLhyphen"/>ter went abroad, pickt up a man, brought him home, who went to bed with both her and her Siſter, and began with the leaſt firſt, ſo that then ſhe cry'd out and might receive the prejudice. Twas alſo prov'd, that they ſent for a Com<g ref="char:EOLhyphen"/>poſition, 60 pound down, and Judgment of an hundred more, and were impor<g ref="char:EOLhyphen"/>tunate to have him give them ſo much, and then they would put it up, <hi>&amp;c.</hi> So that upon the whole matter, the Gentleman was fairly Acquitted from this
+<pb n="4" facs="tcp:30895:3" rendition="simple:additions"/>damnable Aſperſion, and directions given to Proſecute the Mother for keep<g ref="char:EOLhyphen"/>ing a lewd Houſe.</p>
+            <p>A Woman was Convicted for ſtealing a Trunk of Lace, valued above 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Country woman brought it to Town to ſell; the Priſoner invites her to lodge with her, in the night purloins it away by ſeveral of her Companions, who came into the Room on frivolous pretences. In the Morning cries out, ſhe had loſt her own Muff, and by and by the Trunk was miſs'd, and never could be heard of, for which ſhe was Condemned.</p>
+            <p>Mr. <hi>Thompſon</hi> the Printer was admitted to Bail, there being no Indictment againſt him, ſo were ſeveral of the Apprentices.</p>
+            <p>There were in all Fifteen burnt in the Hand, and no fewer than Four and twenty that received Sentance of Death, of whom Three Women (one a Clipper) were, by a Jury of Ma<g ref="char:EOLhyphen"/>trons, after they were Attainted found to be quick with Child, ſo that as to them Execution muſt be reſpited. The Num<g ref="char:EOLhyphen"/>ber being ſo great, the common Bar could not contain them, but ſeveral of them were forced to be put into Captain <hi>Richard<g ref="char:EOLhyphen"/>ſons</hi> ſeat: Many of them much lamented their condition, but the <hi>Iriſh</hi> Popiſh Prieſt was obſerved to laugh at his going away from Sentance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
